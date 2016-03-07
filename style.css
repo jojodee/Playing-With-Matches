@@ -1,0 +1,40 @@
+.number {
+  text-align: center;
+  width:200px;
+  height:200px;
+  border-color: grey;
+  font-size: 200px;
+  font-family: Arial;
+  font-color:blue;
+  background-color:	pink;
+}
+#div1 {
+  text-align: center;
+  width:200px;
+  height:200px;
+  border-color: grey;
+  font-size: 200px;
+  font-family: Arial;
+  font-color:blue;
+  background-color:	red;
+}
+#div2 {
+  text-align: center;
+  width:200px;
+  height:200px;
+  border-color: grey;
+  font-size: 200px;
+  font-family: Arial;
+  font-color:blue;
+  background-color:yellow;
+}
+#div3 {
+  text-align: center;
+  width:200px;
+  height:200px;
+  border-color: grey;
+  font-size: 200px;
+  font-family: Arial;
+  font-color:blue;
+  background-color:	green;
+}
