@@ -1,40 +1,73 @@
 .number {
   text-align: center;
-  width:200px;
-  height:200px;
-  border-color: grey;
-  font-size: 200px;
+  width:150px;
+  height:150px;
+  border: 5px solid grey;
+  font-size: 150px;
   font-family: Arial;
-  font-color:blue;
-  background-color:	pink;
+  color:white;
+  background-color:	#81005E;
+  border-radius:0px;
+  font-family: sans-serif;
+}
+
+.highlight {
+  background-color:white;
+  font-size: 300px;
+  width:300px;
+  height:300px;
+  color:#81005E;
 }
 #div1 {
   text-align: center;
-  width:200px;
-  height:200px;
-  border-color: grey;
-  font-size: 200px;
+  width:150px;
+  height:150px;
+  border-color: #01FE0C;
+  font-size: 150px;
   font-family: Arial;
-  font-color:blue;
-  background-color:	red;
+  /*font-color:blue;
+  /*background-color:	red;*/
 }
 #div2 {
   text-align: center;
-  width:200px;
-  height:200px;
-  border-color: grey;
-  font-size: 200px;
+  width:150px;
+  height:150px;
+  border-color:#01FE0C;
+  font-size: 150px;
   font-family: Arial;
-  font-color:blue;
-  background-color:yellow;
+  /*font-color:blue;
+  /*background-color:yellow;*/
 }
 #div3 {
   text-align: center;
-  width:200px;
-  height:200px;
-  border-color: grey;
-  font-size: 200px;
+  width:150px;
+  height:150px;
+  border-color: #01FE0C;
+  font-size: 150px;
   font-family: Arial;
   font-color:blue;
-  background-color:	green;
+  /*background-color:	green;*/
+}
+#button {
+  text-align: center;
+  width:200px;
+  height:100px;
+  border-color: grey;
+  font-size: 75px;
+  font-family: Arial;
+  font-color:blue;
+  background-color:	purple;
+
+
+}
+.space {
+  opacity: 0;
+}
+
+#message {
+  padding : 1em;
+  border:5px solid pink;
+  width:200px;
+  height:150px;
+  background-color:#54D6E1;
 }
