@@ -25,8 +25,8 @@
   border-color: #01FE0C;
   font-size: 150px;
   font-family: Arial;
-  /*font-color:blue;
-  /*background-color:	red;*/
+  margin-left: 330px;
+  margin-top: 100px;
 }
 #div2 {
   text-align: center;
@@ -35,6 +35,8 @@
   border-color:#01FE0C;
   font-size: 150px;
   font-family: Arial;
+  margin-left:495px;
+  margin-top: -160px;
   /*font-color:blue;
   /*background-color:yellow;*/
 }
@@ -45,20 +47,84 @@
   border-color: #01FE0C;
   font-size: 150px;
   font-family: Arial;
-  font-color:blue;
-  /*background-color:	green;*/
+  margin-left: 660px;
+  margin-top: -160px;
 }
-#button {
+#div4 {
   text-align: center;
-  width:200px;
-  height:100px;
-  border-color: grey;
-  font-size: 75px;
+  width:150px;
+  height:150px;
+  border-color: #01FE0C;
+  font-size: 150px;
   font-family: Arial;
-  font-color:blue;
-  background-color:	purple;
+  margin-left: 330px;
+  margin-top:420
+}
+#div5 {
+  text-align: center;
+  width:150px;
+  height:150px;
+  border-color:#01FE0C;
+  font-size: 150px;
+  font-family: Arial;
+  margin-left:495px;
+  margin-top: -160px;
+  /*font-color:blue;
+  /*background-color:yellow;*/
+}
+#div6 {
+  text-align: center;
+  width:150px;
+  height:150px;
+  border-color: #01FE0C;
+  font-size: 150px;
+  font-family: Arial;
+  margin-left: 660px;
+  margin-top: -160px;
+}
+#div7 {
+  text-align: center;
+  width:150px;
+  height:150px;
+  border-color: #01FE0C;
+  font-size: 150px;
+  font-family: Arial;
+  margin-left: 330px;
+  margin-top: 580;
+}
+#div8 {
+  text-align: center;
+  width:150px;
+  height:150px;
+  border-color:#01FE0C;
+  font-size: 150px;
+  font-family: Arial;
+  margin-left:495px;
+  margin-top: -160px;
+  /*font-color:blue;
+  /*background-color:yellow;*/
+}
+#div9 {
+  text-align: center;
+  width:150px;
+  height:150px;
+  border-color: #01FE0C;
+  font-size: 150px;
+  font-family: Arial;
+  margin-left: 660px;
+  margin-top: -160px;
+}
 
-
+#button {
+  padding: 30px;
+  border-color: green;
+  background-color: #01FE0C;
+  width: 290px;
+  font-size: 30px;
+  color: #81005E;
+  font-family: Arial;
+  margin-left: 850px;
+  margin-top: -100px;
 }
 .space {
   opacity: 0;
@@ -67,7 +133,9 @@
 #message {
   padding : 1em;
   border:5px solid pink;
-  width:200px;
+  width:230px;
   height:150px;
   background-color:#54D6E1;
+  margin-top: -400px;
+  font-size: 25px;
 }
