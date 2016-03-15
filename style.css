@@ -11,12 +11,30 @@
   font-family: sans-serif;
 }
 
+.html {
+  background-color:grey;
+}
+
+.Row-match {
+  color: #81005E;
+
+}
+
+.Column-match {
+  color: #81005E;
+}
+
+.Diognal-match{
+  color: #81005E;
+}
+
 .highlight {
   background-color:white;
   font-size: 300px;
   width:300px;
   height:300px;
   color:#81005E;
+  background-color:#00e5ff;
 }
 #div1 {
   text-align: center;
